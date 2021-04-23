@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/mike-north/js-ts-monorepos/compare/v1.5.0...v1.6.0) (2021-04-23)
+
+
+### Features
+
+* **commitlint-config:** change rule ([4cccd54](https://github.com/mike-north/js-ts-monorepos/commit/4cccd54dba0d9fc6dab1424f4e49cf0f465fffa6))
+
+
+
+
+
 # [1.5.0](https://github.com/mike-north/js-ts-monorepos/compare/v1.4.0...v1.5.0) (2021-04-23)
 
 
