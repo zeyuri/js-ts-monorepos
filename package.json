@@ -52,5 +52,8 @@
     "commitizen": {
       "path": "./node_modules/@digitalroute/cz-conventional-changelog-for-jira"
     }
+  },
+  "dependencies": {
+    "commitlint-config-batata": "^1.2.0"
   }
 }
