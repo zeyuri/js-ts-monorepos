@@ -34,6 +34,8 @@
     "@typescript-eslint/parser": "^4.4.1",
     "commitizen": "^4.2.3",
     "commitlint": "^11.0.0",
+    "commitlint-config-jira": "^1.5.1",
+    "commitlint-plugin-jira-rules": "^1.5.1",
     "eslint": "^7.11.0",
     "husky": "^4.3.0",
     "lerna": "^3.22.1",
