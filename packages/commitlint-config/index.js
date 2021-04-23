@@ -1,6 +1,6 @@
 module.exports = {
   rules: {
-    "hello-world-rule": ({ subject }) => {
+    "hello-world-rule": (parsed) => {
       const HELLO_WORLD = "Hello World"
       return [
         subject.includes(HELLO_WORLD),
