@@ -4088,6 +4088,11 @@ commitizen@^4.0.3, commitizen@^4.2.3:
     strip-bom "4.0.0"
     strip-json-comments "3.0.1"
 
+commitlint-config-batata@^1.2.0:
+  version "1.2.0"
+  resolved "http://localhost:4873/commitlint-config-batata/-/commitlint-config-batata-1.2.0.tgz#ed7b82109c61d76995c4838a3ce8454e1f24ecff"
+  integrity sha512-erGm3yVPFSVALFVbx73rpdodNXRZ397xiScn1gozLvl3AYrR66yTilLHpGcUJPbA2Kk37D+SsRIfbUP9jDGUCw==
+
 commitlint-config-jira@^1.5.1:
   version "1.5.1"
   resolved "http://localhost:4873/commitlint-config-jira/-/commitlint-config-jira-1.5.1.tgz#b23c2828dbafaf3fdfd75e38ca037f4583350d7a"

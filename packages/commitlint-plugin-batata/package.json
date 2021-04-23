@@ -1,6 +1,0 @@
-{
-  "name": "commitlint-plugin-batata",
-  "version": "1.3.0",
-  "main": "index.js",
-  "license": "MIT"
-}
