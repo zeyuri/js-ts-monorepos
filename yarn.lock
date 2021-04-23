@@ -4088,11 +4088,6 @@ commitizen@^4.0.3, commitizen@^4.2.3:
     strip-bom "4.0.0"
     strip-json-comments "3.0.1"
 
-commitlint-config-batata@^1.2.0:
-  version "1.2.0"
-  resolved "http://localhost:4873/commitlint-config-batata/-/commitlint-config-batata-1.2.0.tgz#ed7b82109c61d76995c4838a3ce8454e1f24ecff"
-  integrity sha512-erGm3yVPFSVALFVbx73rpdodNXRZ397xiScn1gozLvl3AYrR66yTilLHpGcUJPbA2Kk37D+SsRIfbUP9jDGUCw==
-
 commitlint-config-jira@^1.5.1:
   version "1.5.1"
   resolved "http://localhost:4873/commitlint-config-jira/-/commitlint-config-jira-1.5.1.tgz#b23c2828dbafaf3fdfd75e38ca037f4583350d7a"
@@ -4105,11 +4100,6 @@ commitlint-jira-utils@^1.5.1:
   version "1.5.1"
   resolved "http://localhost:4873/commitlint-jira-utils/-/commitlint-jira-utils-1.5.1.tgz#3b73f1354180daedc1f520321733081cc5f90051"
   integrity sha512-g0AgJ+x1Sf4ppFu9H521iHa2JNYos/4W2dZKlkwEql4/xgAZA7FU5UbZ/Cl1Q2PP1TTa6d4RhjHEwfkCgfGZ2g==
-
-commitlint-plugin-batata@^1.3.0:
-  version "1.3.0"
-  resolved "http://localhost:4873/commitlint-plugin-batata/-/commitlint-plugin-batata-1.3.0.tgz#c0c42ed1ba457cb4757c4e31a02f363b07835831"
-  integrity sha512-vzuzlf8cxckYzhieueYT9ZXIW2kwo2hPK25RSBnl6RK7LT/MlKrIkbmAPcVM6hxwxBjMsIV+UvYoevfusKMdOQ==
 
 commitlint-plugin-jira-rules@^1.5.1:
   version "1.5.1"
