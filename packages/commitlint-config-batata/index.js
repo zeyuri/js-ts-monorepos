@@ -4,7 +4,7 @@ module.exports = {
       console.log(parsed, when, value)
       return [
         false,
-        `Commit must contains Jira task identifier. Example: (${JIRA_PROJECT_NAME}-777)`,
+        `Commitdsadasdsans Jira task identifier. Example: (${JIRA_PROJECT_NAME}-777)`,
       ]
     },
   },
