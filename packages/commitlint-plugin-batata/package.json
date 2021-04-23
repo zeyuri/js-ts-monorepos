@@ -1,5 +1,5 @@
 {
-  "name": "@zeasy/commitlint-config",
+  "name": "commitlint-plugin-batata",
   "version": "1.6.0",
   "main": "index.js",
   "license": "MIT"
