@@ -10,7 +10,7 @@
     "packages/*"
   ],
   "volta": {
-    "node": "12.19.0",
+    "node": "14.16.1",
     "yarn": "1.22.10"
   },
   "scripts": {
@@ -28,8 +28,11 @@
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "@commitlint/config-lerna-scopes": "^11.0.0",
+    "@commitlint/types": "^12.1.1",
+    "@digitalroute/cz-conventional-changelog-for-jira": "^6.3.0",
     "@typescript-eslint/eslint-plugin": "^4.4.1",
     "@typescript-eslint/parser": "^4.4.1",
+    "commitizen": "^4.2.3",
     "commitlint": "^11.0.0",
     "eslint": "^7.11.0",
     "husky": "^4.3.0",
@@ -41,6 +44,11 @@
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/@digitalroute/cz-conventional-changelog-for-jira"
     }
   }
 }
