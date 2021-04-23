@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/zeyuri/js-ts-monorepos/compare/v1.6.0...v1.7.0) (2021-04-23)
+
+
+### Features
+
+* **commitlint-plugin-batata:** change rule ([910d7b3](https://github.com/zeyuri/js-ts-monorepos/commit/910d7b3c5479e0206bc904043aa150f8f9e54860))
+
+
+
+
+
 # [1.6.0](https://github.com/zeyuri/js-ts-monorepos/compare/v1.5.0...v1.6.0) (2021-04-23)
 
 
